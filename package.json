@@ -1,0 +1,22 @@
+{
+  "name": "learning-react",
+  "version": "1.0.0",
+  "description": "A project learning react.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "n/a"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tschram93/learning-react.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Travis Schram",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tschram93/learning-react/issues"
+  },
+  "homepage": "https://github.com/Tschram93/learning-react#readme"
+}
